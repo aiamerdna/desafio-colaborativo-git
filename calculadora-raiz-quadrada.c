@@ -21,10 +21,10 @@ int main()
     scanf("%lf", &A);
     
      printf("insira o segundo elemento: ");
-    scanf("%lf", &B);
+     scanf("%lf", &B);
     
-     printf("insira o terceiro gustavo guanabara: ");
-    scanf("%lf", &C);
+     printf("insira o terceiro elemento: ");
+     scanf("%lf", &C);
     
     double delta;
     delta=((B*B)-4*A*C);
@@ -34,7 +34,7 @@ int main()
     
     if (delta<0)
     {
-    printf("Impossivel Calcular");
+    printf("erro333");
     }
     else
     {
