@@ -34,7 +34,7 @@ int main()
     
     if (delta<0)
     {
-    printf("Impossivel Calcular");
+    printf("erro333");
     }
     else
     {
