@@ -20,7 +20,7 @@ int main()
     printf("insira o primeiro coeficiente: ");
     scanf("%lf", &A);
     
-     printf("insira o segundo coeficiente: ");
+     printf("insira o segundo elemento: ");
     scanf("%lf", &B);
     
      printf("insira o terceiro coeficiente: ");
