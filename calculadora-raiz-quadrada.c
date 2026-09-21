@@ -21,10 +21,10 @@ int main()
     scanf("%lf", &A);
     
      printf("insira o segundo elemento: ");
-    scanf("%lf", &B);
+     scanf("%lf", &B);
     
      printf("insira o terceiro elemento: ");
-    scanf("%lf", &C);
+     scanf("%lf", &C);
     
     double delta;
     delta=((B*B)-4*A*C);
