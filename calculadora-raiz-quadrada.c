@@ -23,7 +23,7 @@ int main()
      printf("insira o segundo elemento: ");
     scanf("%lf", &B);
     
-     printf("insira o terceiro coeficiente: ");
+     printf("insira o terceiro numero: ");
     scanf("%lf", &C);
     
     double delta;
