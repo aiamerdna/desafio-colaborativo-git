@@ -38,8 +38,8 @@ int main()
     }
     else
     {
-    printf("R1 = %.5lf\n", result1);
-    printf("R2 = %.5lf", result2);
+    printf("R1 = %.3lf\n", result1);
+    printf("R2 = %.3lf", result2);
     }
     return 0;
 }
